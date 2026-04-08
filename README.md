@@ -3,7 +3,7 @@
 
 ---
 
-<h3 align="center">🐐 Sobre mim</h3>
+<h3 align="left">🐐 Sobre mim</h3>
 
 <p align="center">
 Sou apaixonado por tecnologia e resolução de problemas, com experiência prática em infraestrutura de TI, suporte técnico e implementação de sistemas.<br><br>
@@ -50,11 +50,10 @@ Atualmente focado em me tornar um <b>Engenheiro DevOps</b>, estudando e aplicand
 
 ---
 
-<h3 align="center">📊 Estatísticas do GitHub</h3>
+<h3 align="left">📊 Estatísticas do GitHub</h3>
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&hide_border=true"/>
+<p align="left">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=geovani-rs&show_icons=true&theme=transparent&hide_border=true" />
 </p>
 
 ---
