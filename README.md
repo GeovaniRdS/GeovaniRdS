@@ -50,6 +50,14 @@ Atualmente focado em me tornar um <b>Engenheiro DevOps</b>, estudando e aplicand
 
 ---
 
+<h3 align="center">📊 Linguagens mais utilizadas</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical" />
+</p>
+
+---
+
 <h3 align="left">📫 Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/geovani-rs" target="blank">
