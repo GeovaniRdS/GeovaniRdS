@@ -24,15 +24,6 @@ Atualmente focado em me tornar um <b>Engenheiro DevOps</b>, estudando e aplicand
 
 ---
 
-<h3 align="left">📫 Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/geovani-rs" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geovani-rs" height="30" width="40" />
-</a>
-</p>
-
----
-
 <h3 align="left">🚀 Tecnologias e Ferramentas:</h3>
 
 <p align="left"> 
@@ -59,11 +50,11 @@ Atualmente focado em me tornar um <b>Engenheiro DevOps</b>, estudando e aplicand
 
 ---
 
-<h3 align="center">📊 Estatísticas do GitHub</h3>
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical"/>
+<h3 align="left">📫 Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/geovani-rs" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geovani-rs" height="30" width="40" />
+</a>
 </p>
 
 ---
