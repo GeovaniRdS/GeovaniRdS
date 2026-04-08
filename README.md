@@ -50,10 +50,11 @@ Atualmente focado em me tornar um <b>Engenheiro DevOps</b>, estudando e aplicand
 
 ---
 
-<h3 align="center">📊 Linguagens mais utilizadas</h3>
+<h3 align="center">📊 Estatísticas do GitHub</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
