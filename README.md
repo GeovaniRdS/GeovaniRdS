@@ -1,9 +1,9 @@
-<h1 align="center">🐐 Geovani Rodrigues</h1>
+<h1 align="center">👨‍💻 Geovani Rodrigues</h1>
 <h3 align="center">🌐 Desenvolvedor Full Stack | 🚀 Entusiasta DevOps | 💻 Estudante de Ciência da Computação</h3>
 
 ---
 
-<h3 align="center">🚀 Sobre mim</h3>
+<h3 align="center">🐐 Sobre mim</h3>
 
 <p align="center">
 Sou apaixonado por tecnologia e resolução de problemas, com experiência prática em infraestrutura de TI, suporte técnico e implementação de sistemas.<br><br>
