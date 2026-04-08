@@ -3,7 +3,7 @@
 
 ---
 
-<h3 align="left">🐐 Sobre mim</h3>
+<h3 align="center">🐐 Sobre mim</h3>
 
 <p align="center">
 Sou apaixonado por tecnologia e resolução de problemas, com experiência prática em infraestrutura de TI, suporte técnico e implementação de sistemas.<br><br>
