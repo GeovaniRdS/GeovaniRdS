@@ -1,5 +1,5 @@
 <h1 align="center">🐐 Geovani Rodrigues</h1>
-<h3 align="center">💻 Estudante de Ciência da Computação | 🚀 Entusiasta DevOps | 🌐 Desenvolvedor Full Stack</h3>
+<h3 align="center">🌐 Desenvolvedor Full Stack | 🚀 Entusiasta DevOps | 💻 Estudante de Ciência da Computação</h3>
 
 ---
 
