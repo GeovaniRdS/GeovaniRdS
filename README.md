@@ -1,4 +1,4 @@
-<h1 align="center">Olá Mundo 👋, Eu sou Geovani Rodrigues</h1>
+<h1 align="center">🐐 Geovani Rodrigues</h1>
 <h3 align="center">💻 Estudante de Ciência da Computação | 🚀 Entusiasta DevOps | 🌐 Desenvolvedor Full Stack</h3>
 
 ---
