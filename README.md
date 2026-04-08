@@ -56,5 +56,3 @@ Atualmente focado em me tornar um <b>Engenheiro DevOps</b>, estudando e aplicand
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geovani-rs" height="30" width="40" />
 </a>
 </p>
-
----
